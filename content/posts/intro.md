@@ -4,7 +4,7 @@ title = "001 Saabumine"
 date = "2023-02-18"
 +++
 
-Päikeselised tervitused Padovast!
+###### Päikeselised tervitused Padovast!
 
 Viimastel päevadel on paljud uurinud, et kuidas mul läheb ning on tulnud ka märkuseid, et pildid/videod ei jõua üldse kohale. Endalgi läheb juba pisut sassi, et kellele ma millest juba rääkinud olen ja mis on jäänud rääkimata. Seetõttu otsustasin kõik siia ühte kohta kirja panna, nii et kellel on vähegi soov minu tegemistel silm peal hoida, saab seda just siin lehel teha. 
 
