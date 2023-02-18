@@ -1,10 +1,12 @@
 +++
 author = "Kätriin"
-title = "Markdown Syntax Guide"
-date = "2023-02-12"
+title = "001 Esimesed muljed"
+date = "2023-02-18"
 +++
 
-Tervitused Itaalias! Jne jne jne :) 
+Päikeselised tervitused Padovast!
+
+Maandusin Treviso lennujaamas 15nda veebruari pärastlõunal ning seadsin sammud piletikioski end otsima transporti, mis mind lennujaamast 
 <!--more-->
 
 {{< youtube w7Ft2ymGmfc >}}
