@@ -7,6 +7,7 @@ copyright: ""
 paginate: 3
 languageCode: "en"
 defaultContentLanguage: "en"
+useFaviconGenerator: true
 
 params:
   img_home: "img/home-bg.jpg"
