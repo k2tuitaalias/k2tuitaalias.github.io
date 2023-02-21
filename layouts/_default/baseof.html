@@ -6,6 +6,8 @@
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+  {{ template "_internal/google_analytics.html" . }}
+
   {{ $title := .Title }}
   {{- if not .IsHome }}
     {{ $title = printf "%s | %s" .Title .Site.Title }}
@@ -65,7 +67,6 @@
   <link rel="apple-touch-icon" href="{{ "apple-touch-icon.png" | relURL }}">
   <link rel="shortcut icon" href="{{ "favicon.png" | relURL }}" type="image/x-icon">
   <link rel="shortcut icon" href="{{ "favicon.ico" | relURL }}" type="image/x-icon">
-  <link rel="icon" href="{{ "logo.svg" | relURL }}" sizes="any" type="image/svg+xml" />
 {{ end }}
 
 </head>

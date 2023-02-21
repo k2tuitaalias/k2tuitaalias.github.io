@@ -8,6 +8,7 @@ paginate: 7
 languageCode: "en"
 defaultContentLanguage: "en"
 useFaviconGenerator: true
+googleAnalytics: G-S210QPRD80
 
 params:
   img_home: "img/home-bg.jpg"
